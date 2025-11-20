@@ -60,7 +60,21 @@ flutter:
     - assets/images/undangan4.png
     - assets/images/undangan5.png
     - assets/images/undangan6.png
-
+    - assets/images/background.png
+    - assets/images/blankon1.png
+    - assets/images/blankon2.png
+    - assets/images/blankon3.png
+    - assets/images/blankon4.png
+    - assets/images/blankon5.png
+    - assets/images/blankon6.png
+    - assets/images/blankon7.png
+    - assets/images/blankon8.png
+    - assets/images/blankon9.png
+    - assets/images/blankon10.png
+    - assets/images/blankon11.png
+    - assets/images/blankon12.png
+    - assets/images/kembang.png
+    
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
